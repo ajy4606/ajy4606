@@ -4,6 +4,8 @@
 
 </div>
 
+<br>
+
 <div align="center">
 
 ### Language
@@ -17,7 +19,6 @@
 
 ### DB
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-<img src="https://img.shields.io/badge/Mybatis-181717?style=for-the-badge&logo=java&logoColor=white">
 
 ### Server
 <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
